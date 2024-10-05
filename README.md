@@ -1,1 +1,2 @@
-# SQL-Practice
+# SQL-Practice-Questions
+Here I have focused on key concepts such as database creation, table design, and data manipulation. I practiced various SQL queries, including SELECT, INSERT, UPDATE, and DELETE, to manage and analyze data effectively. I have Explored advanced topics like joins, indexing, and normalization to optimize database performance. By solving interview questions, I honed my problem-solving skills and gained practical insights into real-world database challenges.
